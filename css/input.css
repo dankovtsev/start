@@ -1,0 +1,49 @@
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  max-width: 330px;
+}
+.form-signin input[type="text"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 0;
+  font-size: 16px;
+  max-width: 330px;
+}
+.form-signin button{
+  margin-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 0;
+  font-size: 16px;
+  max-width: 330px;
+}
+.form-control 1 {
+  border-top-left-radius: 1px;
+  border-top-right-radius: 0;
+  font-size: 16px;
+  max-width: 330px;
+} .form-signin btn-lg btn-primary btn-block{
+  margin-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 0;
+  font-size: 16px;
+  max-width: 330px;
+}
+#user{
+text-align: center;
+background: #ffffff;
+color: #000000;
+}
+#problem{
+text-align: center;
+}
+#decision{
+text-align: center;
+}
+#background {
+  background-image: url(/pic/fon.jpg);
+}
+.table-data{
+  style='margin-top: 50px; text-align: center';
+}
